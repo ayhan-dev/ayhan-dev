@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayhan-G.Y 
 
-![](https://github.com/ayhan-dev/ayhan-dev/header.png) 
+![](https://github.com/ayhan-dev/blob/main/ayhan-dev/header.png) 
 
 - 🌟 I’m I am interested in designing and creating the modern world
 - 🐈 I’m I started learning and designing from a young age and it has been 10 years since then
