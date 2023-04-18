@@ -4,6 +4,7 @@
 ![](https://github.com/ayhan-dev/ayhan-dev/blob/main/header.png) 
 
 - 🌟 I’m I am interested in designing and creating the modern world
+- 🐈 Power is in the hands of computer masters
 - 🛰️ I am looking to create a big company in the field of technology, and cooperation with the company and the big team is always my priority for progress and development
 - ✋ I had enough time to learn. Proficient in programming languages c# ,java , dart, Python, php I am also active in web design and infrastructure
 - I own development teams (INO , Pxlrw , devexpr, rolotm , japjat , tiwahub I am 
