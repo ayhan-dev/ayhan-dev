@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Ayhan-G.Y
+- 👋 Hi, I’m @Ayhan-G.Y 
+
+![](https://github.com/ayhan-dev/ayhan-dev/header.png) 
+
 - 🌟 I’m I am interested in designing and creating the modern world
 - 🐈 I’m I started learning and designing from a young age and it has been 10 years since then
 - 🛰️ I am looking to create a big company in the field of technology, and cooperation with the company and the big team is always my priority for progress and development
