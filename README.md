@@ -1,11 +1,13 @@
-
+!.[.](https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74) 
+ 
+ 
 <h2 align="center">👋 Hi, I’m Ayhan-G.Y </h2> 
 
 ![](https://github.com/ayhan-dev/ayhan-dev/blob/main/header.png) 
 
 - 🌟 I’m I am interested in designing and creating the modern world
 - 🐈 Power is in the hands of computer masters
-- 🛰️ I am looking to create a big company in the field of technology, and cooperation with the company and the big team is always my priority for progress and development
+- 🛰️ I am looking to create a big company in the field of technology, and cooperation with the company and the big team is always my pri![ority for progress and development
 
 - To contact ayhan.gy.dev@gmail.com I am at your service
  
