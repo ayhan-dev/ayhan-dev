@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi, I’m Ayhan-G.Y </h2> 
 
 ![](https://github.com/ayhan-dev/ayhan-dev/blob/main/header.png) 
-- 🐈 I am a full-stack developer with a passion for building companies and developing the modern world. Among my skills in programming, I have the ability to work with various programming languages, databases, frameworks, and software development tools.
+- 🐈 I am a multi-skilled developer with a passion for building companies and developing the modern world. Among my skills in programming, I have the ability to work with various programming languages, databases, frameworks, and software development tools.
 - 💻 Ever since I became familiar with programming, my goal has been to improve and develop the world using new and innovative technologies. That's why I'm currently looking for new ideas and projects that can improve and develop society. 
 
 -   🐈 Power is in the hands of computer masters
