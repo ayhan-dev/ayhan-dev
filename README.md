@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-<h2 align="center">👋 Hi, I’m Ayhan-G.Y </h2> 
+<h2 align="center">👋 Hi, I’m Ayhan-G.Y ♪ </h2> 
 
 ![](https://github.com/ayhan-dev/ayhan-dev/blob/main/header.png) 
 - 🐈 I am a multi-skilled developer with a passion for building companies and developing the modern world. Among my skills in programming, I have the ability to work with various programming languages, databases, frameworks, and software development tools.
@@ -64,6 +64,6 @@
 💰 Tether: TQur4m4fLwZrVxKHv1Ch91MkG3wbMWRfUv
   
   
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
+ ![♪ waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
 
  
