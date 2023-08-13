@@ -38,21 +38,7 @@
  
 
  
- ### 🐈 My Favorites Techs:
-null
-   
-   
-   
-   
- ##Financial support:  
  
-💰 Tron : TQur4m4fLwZrVxKHv1Ch91MkG3wbMWRfUv 
-
-💰 BITCOlN : bc1qr6njp6rrq9vmtq84m29nvrgvk05xxt6upx3h69
-
-💰 Tether: TQur4m4fLwZrVxKHv1Ch91MkG3wbMWRfUv
-  
-  
  ![♪ waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
 
  
