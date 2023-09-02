@@ -14,7 +14,8 @@
  
 
 
-## My:
+## My: 
+
 ```
 {
     "name": "Ayhan GaraBay",
@@ -43,6 +44,6 @@
    
    
    
-   ![♪ waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
+![♪ waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
 
  
