@@ -28,7 +28,8 @@
         "Web",
         "Network and security",
         "application",
-        "Ai"
+        "Ai",
+        "Game"
     ],
     "interests": [
         "Cat developer",
