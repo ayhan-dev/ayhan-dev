@@ -46,8 +46,10 @@
    
  ## 🌟 My Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
- 
- <!-- BLOGPOSTS:END -->
+ - 💯 [Что такое нейронная сеть?](https://ayhandev.hashnode.dev/chto-takoe-nejronnaya-set)
+ - 🚀 [Мелкая питонячая радость #12: вирусы и зловредное ПО на Python](https://ayhandev.hashnode.dev/melkaya-pitonyachaya-radost-12-virusy-i-zlovrednoe-po-na-python)
+ - 🌮 [multi data](https://ayhandev.hashnode.dev/multi-data)
+ - 🔥 [Principles of encryption in data protection](https://ayhandev.hashnode.dev/principles-of-encryption-in-data-protection)<!-- BLOGPOSTS:END -->
  
    
    
