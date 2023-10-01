@@ -27,7 +27,7 @@
     "skills": [
         "Web",
         "Network and security",
-        "application",
+        "network administrator",
         "Ai",
         "Game"
     ],
