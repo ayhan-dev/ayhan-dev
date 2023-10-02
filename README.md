@@ -47,11 +47,11 @@
    
  ## 🌟 My Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
- - 🇹🇷 [Neuroengineering](https://ayhandev.hashnode.dev/neuroengineering)
- - 🐍 [Что такое технология блокчейн?](https://ayhandev.hashnode.dev/chto-takoe-tehnologiya-blokchejn)
- - 🐈 [Что такое нейронная сеть?](https://ayhandev.hashnode.dev/chto-takoe-nejronnaya-set)
- - 🌟 [Мелкая питонячая радость #12: вирусы и зловредное ПО на Python](https://ayhandev.hashnode.dev/melkaya-pitonyachaya-radost-12-virusy-i-zlovrednoe-po-na-python)
- - 🇹🇷 [multi data](https://ayhandev.hashnode.dev/multi-data)<!-- BLOGPOSTS:END -->
+ - 🇹🇷 [Python -method](https://ayhandev.hashnode.dev/python-method)
+ - 🐍 [List-net](https://ayhandev.hashnode.dev/list-net)
+ - 🐈 [شبکه عصبی مغز](https://ayhandev.hashnode.dev/shbkh-aasbi-mghz)
+ - 🌟 [مغز و اعصاب](https://ayhandev.hashnode.dev/mghz-o-aaasab)
+ - 🇹🇷 [شک الکتریکی مغز](https://ayhandev.hashnode.dev/shk-alktriki-mghz)<!-- BLOGPOSTS:END -->
  
    
    
