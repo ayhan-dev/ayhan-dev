@@ -1,8 +1,7 @@
 name: Hashnode Blog Posts
 on:
   schedule:
-    # Runs every 6 hours of the day
-    - cron: '*/30 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
