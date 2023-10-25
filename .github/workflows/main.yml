@@ -15,6 +15,6 @@ jobs:
         with:
           comment_tag_name: "BLOGPOSTS"
           feed_list: "https://ayhandev.hashnode.dev/rss.xml"
-          template: "$newline - $randomEmoji(🇹🇷,🌟,🍃,🐍,🌵,🐈) [$title]($url)"
+          template: "$newline - $randomEmoji(❤️,🐈,🌟,🚀,⚠️,💔,✏️,📌,📝) [$title]($url)"
           commit_message: "recent posts section updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
