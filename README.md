@@ -37,11 +37,11 @@
    
  ## 🌟 My Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
- - ❤️ [Python -method](https://ayhandev.hashnode.dev/python-method)
- - 💔 [List-net](https://ayhandev.hashnode.dev/list-net)
- - 📝 [شبکه عصبی مغز](https://ayhandev.hashnode.dev/shbkh-aasbi-mghz)
- - 🌟 [مغز و اعصاب](https://ayhandev.hashnode.dev/mghz-o-aaasab)
- - 🐈 [شک الکتریکی مغز](https://ayhandev.hashnode.dev/shk-alktriki-mghz)<!-- BLOGPOSTS:END -->
+ - ❤️ [programmers-Important](https://ayhandev.hashnode.dev/programmers-important)
+ - 💔 [Python -method](https://ayhandev.hashnode.dev/python-method)
+ - 📝 [List-net](https://ayhandev.hashnode.dev/list-net)
+ - 🌟 [شبکه عصبی مغز](https://ayhandev.hashnode.dev/shbkh-aasbi-mghz)
+ - 🐈 [مغز و اعصاب](https://ayhandev.hashnode.dev/mghz-o-aaasab)<!-- BLOGPOSTS:END -->
  
    
    
