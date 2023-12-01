@@ -37,11 +37,11 @@
    
  ## 🌟 My Recent Blog Posts:
 <!-- BLOGPOSTS:START -->
- - ❤️ [ساختار حافظه طولانی مدت انسان و نقش نظام عصبی در ذخیره سازی و بازخوانی اطلاعات](https://ayhandev.hashnode.dev/sakhtar-hafthh-tolani-mdt-ansan-o-nksh-ntham-aasbi-dr-thkhirh-sazi-o-bazkhoani-atlaaaat)
- - 💔 [programmers-Important](https://ayhandev.hashnode.dev/programmers-important)
- - 📝 [Python -method](https://ayhandev.hashnode.dev/python-method)
- - 🌟 [List-net](https://ayhandev.hashnode.dev/list-net)
- - 🐈 [شبکه عصبی مغز](https://ayhandev.hashnode.dev/shbkh-aasbi-mghz)<!-- BLOGPOSTS:END -->
+ - ❤️ [کوانتوم کامپیوتر](https://ayhandev.hashnode.dev/koantom-kampiotr)
+ - 💔 [ساختار حافظه طولانی مدت انسان و نقش نظام عصبی در ذخیره سازی و بازخوانی اطلاعات](https://ayhandev.hashnode.dev/sakhtar-hafthh-tolani-mdt-ansan-o-nksh-ntham-aasbi-dr-thkhirh-sazi-o-bazkhoani-atlaaaat)
+ - 📝 [programmers-Important](https://ayhandev.hashnode.dev/programmers-important)
+ - 🌟 [Python -method](https://ayhandev.hashnode.dev/python-method)
+ - 🐈 [List-net](https://ayhandev.hashnode.dev/list-net)<!-- BLOGPOSTS:END -->
  
    
    
