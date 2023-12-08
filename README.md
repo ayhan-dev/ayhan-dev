@@ -7,32 +7,6 @@
 ![](https://github.com/ayhan-dev/ayhan-dev/blob/main/header.png) 
 
 
-
-## My: 
-
-```
-{
-    "name": "Ayhan GaraBay",
-    "age": 20,
-    "education": "software engineering",
-    "skills": [
-        "Web",
-        "Network and security",
-        "Ai",
-        "Game"
-    ],
-    "interests": [
-        "Cat developer",
-        "Security specialist"
-    ],
-    "account": [
-        "t.me/Ayhan_dev",
-        "ayhan.gy.dev@gmail.com"
-    ],
-    "future_goals": "My ayhan GaraBay, fullstack developer / Sanat Sharif University of Tehran - manager DevDiwan - CloudMTS "
-}
-```
-
  
    
  ## 🌟 My Recent Blog Posts:
