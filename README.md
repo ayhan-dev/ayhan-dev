@@ -6,6 +6,8 @@
     <p>👋 Hi, I’m Ayhan-G.Y ♪ </p>
 </div>
 
+ # project main:
+
 
  # infi to me:
 
