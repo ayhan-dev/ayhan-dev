@@ -1,17 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
  
-<div align="center">
-    <img src="_59d601ed-463c-4a67-9997-8a392031a144.jpeg" alt="ForNRxt GitHub Extension" width="200" style="border-radius:50%; object-fit: cover;">
-    <p>👋 Hi, I’m Ayhan-G.Y ♪ </p>
-</div>
+<h2 align="center">👋 Hi, I’m Ayhan-G.Y ♪ </h2>
 
-
-
- # 💥 project main:
-- [ForNRxt](https://github.com/ayhan-dev/fornrxt)
-- [CVE LIST](https://github.com/ayhan-dev/CVE-LIST)
-- [AND](https://github.com/ayhan-dev?tab=repositories)
 
  # 🗯️ info to me:
 - Hi. I am Ayhan.(Caesar) 👋.
@@ -22,6 +13,8 @@
 - Email: ayhan.gy.dev@gmail.com
 
  
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
  # 🔗 Links to me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayhan-garabay-813ab2273)
