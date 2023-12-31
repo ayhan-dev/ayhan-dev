@@ -6,13 +6,13 @@
     <p>👋 Hi, I’m Ayhan-G.Y ♪ </p>
 </div>
 
- # project main:
+ # 💥 project main:
 
 
- # infi to me:
+ # 🗯️ info to me:
 
  
- # Links to me 🔗
+ # 🔗 Links to me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayhan-garabay-813ab2273)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/Ayhan_Developer)
