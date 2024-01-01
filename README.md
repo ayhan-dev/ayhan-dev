@@ -4,7 +4,7 @@
 <h2 align="center">👋 Hi, I’m Ayhan-G.Y ♪ </h2>
 
 
- # 🗯️ info to me:
+ # 🗯️ me:
 - Hi. I am Ayhan.(Caesar) 👋.
 - Multi.stack developer ⭐️.
 - specialist AI 🤖.
