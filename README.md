@@ -10,8 +10,10 @@
 - specialist AI 🤖.
 - Hacking and security activity.
 - Experience +10 years.
+- 
 - Email: ayhan.gy.dev@gmail.com
 - blog: [My Blog](https://ayhandev.hashnode.dev/)
+- LinkedIn: [My LinkedIn](http://linkedin.com/in/ayhan-garabay)
  
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
