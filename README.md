@@ -11,7 +11,7 @@
 - Hacking and security activity.
 - Experience +10 years.
 - 
-- Email: ayhan.gy.dev@gmail.com
+- Email: ayhan.dev.dev@gmail.com
 - blog: [My Blog](https://ayhandev.hashnode.dev/)
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
