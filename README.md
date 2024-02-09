@@ -18,7 +18,7 @@
 
  # 🔗 Links to me 🔗
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayhan-garabay-813ab2273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayhan-dev-813ab2273)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/Ayhan_Developer)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://t.me/Ayhan_dev)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white)](https://www.youtube.com/@Ayhan-dev)
