@@ -1,32 +1,26 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
- 
-<h2 align="center">👋 Hi, I’m Ayhan ♪ </h2>
+ <h2 align="center">👋 Hi, I'm Ayhan ♪</h2>
 
+# 🧠 About Me:
+- Hi, I'm Ayhan Saral (aka Mr.05) 👋
+- Software engineer & cybersecurity specialist with 14+ years of experience
+- Backend developer (Laravel, Django, .NET) with deep roots in AI, embedded systems, and DevOps
+- Passionate about open-source, engineering innovation, and digital security
+- Currently teaching engineering—but I prefer working silently behind the scenes
+- I function mostly on coffee ☕ :)
 
- # 🗯️ me:
-- Hi. I am Ayhan.(Caesar) 👋.
-- Multi.stack developer ⭐️.
-- specialist AI 🤖.
-- Hacking and security activity.
-- Experience +10 years.
-- 
-- Email: ayhan.dev.dev@gmail.com
-- blog: [My Blog](https://ayhandev.hashnode.dev/)
-- GiSt: [my Gist](https://gist.github.com/ayhan-dev)
-
+# 📫 Reach Me:
+- 📧 Email: ayhan.saral.dev@gmail.com  
+- 🌐 Blog & Site: [ayhan-dev.online](https://blog.ayhan-dev.online)  
+- 🐙 Gitlab: [@ayhan-dev](https://gitlab.com/ayhan-dev)  
+- 🐦 Twitter: [@mr05dev](https://twitter.com/mr05dev)  
+- 🎧 SoundCloud: [My Music](https://on.soundcloud.com/ndgmEQjy1VKwpWqN9)  
+- 📺 YouTube: [My Channel](https://www.youtube.com/@ayhan-dev)
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
- # 🔗 Me Link 🔗
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayhan-dev-813ab2273)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/Ayhan_Developer)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://t.me/Ayhan_dev)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white)](https://www.youtube.com/@Ayhan-dev)
-
-   
 ![♪ waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
 
  
