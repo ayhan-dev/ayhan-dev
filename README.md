@@ -1,9 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
- <h2 align="center">👋 Hi, I'm Ayhan ♪</h2>
-
-
-
 
 # 📫 Reach Me:
 - 📧 Email: ayhan.saral.dev@gmail.com  
