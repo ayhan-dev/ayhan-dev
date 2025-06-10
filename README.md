@@ -4,11 +4,6 @@
 
 # 🧠 About Me:
 - Hi, I'm Ayhan Saral (aka Mr.05) 👋
-- Software engineer & cybersecurity specialist with 14+ years of experience
-- Backend developer (Laravel, Django, .NET) with deep roots in AI, embedded systems, and DevOps
-- Passionate about open-source, engineering innovation, and digital security
-- Currently teaching engineering—but I prefer working silently behind the scenes
-- I function mostly on coffee ☕ :)
 
 # 📫 Reach Me:
 - 📧 Email: ayhan.saral.dev@gmail.com  
