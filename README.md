@@ -13,9 +13,6 @@
 - 🎧 SoundCloud: [My Music](https://on.soundcloud.com/ndgmEQjy1VKwpWqN9)  
 - 📺 YouTube: [My Channel](https://www.youtube.com/@ayhan-dev)
 
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
 ![♪ waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
 
  
