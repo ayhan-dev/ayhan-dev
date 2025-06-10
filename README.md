@@ -1,8 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
  <h2 align="center">👋 Hi, I'm Ayhan ♪</h2>
-
-# 🧠 About Me:
 - Hi, I'm Ayhan Saral (aka Mr.05) 👋
 
 # 📫 Reach Me:
